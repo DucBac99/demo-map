@@ -1,0 +1,96 @@
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.Core.dll
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.Core.xml
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.Core.dll
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.WindowsForms.dll
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.Core.xml
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.WindowsForms.xml
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GMAP\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Toro\Downloads\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Toro\Downloads\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Toro\Downloads\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Toro\Downloads\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Toro\Downloads\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Toro\Downloads\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Toro\Downloads\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.Core.xml
+C:\Users\Toro\Downloads\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Toro\Downloads\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Toro\Downloads\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Toro\Downloads\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Toro\Downloads\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.Core.xml
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.WindowsForms.xml
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojAssemblyReference.cache
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.cache
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.CoreCompileInputs.cache
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.CopyComplete
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\DO_AN\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojAssemblyReference.cache
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.cache
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.CoreCompileInputs.cache
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.Core.xml
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.WindowsForms.xml
+D:\DO_AN\_TRAVELER TRACKING\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.CopyComplete
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.Core.xml
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.cache
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.CopyComplete
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.AssemblyReference.cache
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.cache
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.CoreCompileInputs.cache
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\MapC-\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\MapC-\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\MapC-\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\MapC-\WindowsApplication2\bin\Debug\GMap.NET.Core.xml
+E:\MapC-\WindowsApplication2\bin\Debug\GMap.NET.WindowsForms.xml
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.CopyComplete
